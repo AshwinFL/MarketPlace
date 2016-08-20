@@ -1,0 +1,29 @@
+<html>
+<head>
+</head>
+<body>
+	<div class="cd-cart-container empty">
+<ul class="count"> <!-- cart items count -->
+	<a href="#0" class="cd-cart-trigger">
+<li>Games of Trolls</li>
+<li>Is this a jokwe?</li>
+</ul> <!-- .count -->
+</a>
+ 
+<div class="cd-cart">
+<div class="wrapper">
+
+<div class="body">
+<ul>
+<!-- products added to the cart will be inserted here using JavaScript -->
+</ul>
+</div>
+ 
+<footer>
+<a href="#0" class="checkout btn"><em>Checkout - $<span>0</span></em></a>
+</footer>
+</div>
+</div> <!-- .cd-cart -->
+</div> <!-- cd-cart-container -->
+</body>
+</html>
